@@ -74,7 +74,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/paulinagonzalezc/dictionary-react.git
+  git clone https://github.com/rajchouhan24/Dictionary-app.git
 ```
 
 ### Install
@@ -117,9 +117,8 @@ npm run deploy
 
 👤 **Paulina Gonzalez**
 
-- GitHub: [@paulinagonzalezc](https://github.com/paulinagonzalezc)
-- Twitter: [@paulinagzzc](https://twitter.com/paulinagzzc)
-- LinkedIn: [Paulina Gonzalez Cantu](https://www.linkedin.com/in/paulina-gonzalez-cantu/)
+- GitHub: [rajchouhan24](https://github.com/rajchouhan24)
+- LinkedIn: [Raj Chouhan](raj-chouhan-1517a6271)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,7 +133,7 @@ npm run deploy
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/paulinagonzalezc/dictionary-react/issues).
+Feel free to check the [issues page](https://github.com/rajchouhan24/Dictionary-app.git).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
