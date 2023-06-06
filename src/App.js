@@ -15,13 +15,13 @@ function App() {
       </div>
       <footer className="reference">
         <a
-          href="https://github.com/paulinagonzalezc/dictionary-react"
+          href="https://github.com/rajchouhan24/Dictionary-app.git"
           target="_blank"
           rel="noreferrer"
         >
           Open-source code
         </a>
-        <span> by Paulina Gonzalez</span>
+        <span> by Raj Chouhan</span>
       </footer>
     </div>
   );
