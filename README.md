@@ -51,10 +51,6 @@ Built using a dictionary API.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://dictionaryreact-paulina.netlify.app/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -115,7 +111,7 @@ npm run deploy
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Paulina Gonzalez**
+👤 **Raj Chouhan**
 
 - GitHub: [rajchouhan24](https://github.com/rajchouhan24)
 - LinkedIn: [Raj Chouhan](raj-chouhan-1517a6271)
