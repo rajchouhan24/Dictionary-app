@@ -51,7 +51,7 @@ Built using a dictionary API.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- [Live Demo Link](https://sensational-daifuku-23c679.netlify.app/)
+- [Live Demo Link]([https://sensational-daifuku-23c679.netlify.app/](https://pronouncedis.netlify.app))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
